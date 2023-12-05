@@ -1,0 +1,80 @@
+/* Contoh CSS */
+body {
+    background-color: #f1f1f1;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"], textarea {
+    padding: 0;
+}
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    }
+    
+    h1 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #333;
+    }
+    
+    form {
+    margin-top: 20px;
+    }
+    
+    .form-input {
+    margin-bottom: 20px;
+    }
+    
+    input[type="text"], input[type="password"] {
+    padding: 12px 20px;
+    font-size: 16px;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    background-color: transparent;
+    }
+    
+    .btn-login {
+    background-color: #333;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    }
+    
+    .btn-login:hover {
+    background-color: #444;
+    }
+
+.py-6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.my-6 {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #dddddd;
+  }
+  
